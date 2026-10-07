@@ -497,7 +497,7 @@ The complete list with captions is in [docs/screenshot-index.md](docs/screenshot
 
 MIT. See [LICENSE](LICENSE).
 
-## Author
+## 17. Author
 
 **B VARUN**
 
