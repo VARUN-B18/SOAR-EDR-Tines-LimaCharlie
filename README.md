@@ -496,3 +496,10 @@ The complete list with captions is in [docs/screenshot-index.md](docs/screenshot
 ## 16. License
 
 MIT. See [LICENSE](LICENSE).
+
+## Author
+
+**B VARUN**
+
+🔗 **GitHub:** https://github.com/VARUN-B18  
+🔗 **LinkedIn:** https://www.linkedin.com/in/varunb-/
